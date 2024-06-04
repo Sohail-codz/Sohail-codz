@@ -7,11 +7,10 @@
 <br/>
 
 <div>
-<div>
-🌱 I’m currently learning **JavaScript, ReactJS, NodeJS**  
-<br/>
+
+🌱 I’m currently learning **JavaScript, ReactJS, NodeJS** 
+
 💬 Ask me about **Node.js, React, JavaScript... or anything** 
-</div>
 
 ⚡ Fun fact **JavaScript is like the versatile ninja tool in "Naruto," adding interactivity and dynamics to websites.**
 
