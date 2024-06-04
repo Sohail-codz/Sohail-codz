@@ -8,15 +8,13 @@
 
 <pre>
  
-🌱 I’m currently learning **JavaScript, ReactJS, NodeJS**
+🌱 I’m currently learning **JavaScript, ReactJS, NodeJS**  <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
 
 💬 Ask me about **Node.js, React, JavaScript... or anything**
 
 ⚡ Fun fact **JavaScript is like the versatile ninja tool in "Naruto," adding interactivity and dynamics to websites.**
 
  </pre>
- <br><br>
- <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
 
  <div align="center"> 
   <a href="mailto:20193061.itsohail@gmail.com">
