@@ -9,7 +9,6 @@
 <br/>
 <br/>
 <h3 align="center">A passionate web developer from India INA</h3>
-
 <br/>
 <br/>
 <br/>
@@ -18,11 +17,11 @@
 
 <pre>
 
-🌱 I’m currently learning **JavaScript, ReactJS, NodeJS**
+🌱 I’m currently learning <b>JavaScript, ReactJS, NodeJS</b>
 
-💬 Ask me about **Node.js, React, JavaScript... or anything**
+💬 Ask me about <b>Node.js, React, JavaScript... or anything</b>
 
-⚡ Fun fact **JavaScript is like the versatile ninja tool in "Naruto," adding interactivity and dynamics to websites.**
+⚡ Fun fact <b>JavaScript is like the versatile ninja tool in "Naruto," adding interactivity and dynamics to websites.</b>
 </pre>
 
  <div align="center"> 
