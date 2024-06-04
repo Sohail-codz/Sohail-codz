@@ -6,7 +6,7 @@
 
 <br/>
 
-<div align="center">
+<div align="start">
  
 🌱 I’m currently learning **JavaScript, ReactJS, NodeJS**
 
