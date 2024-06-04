@@ -10,7 +10,7 @@
 
 🌱 I’m currently learning **JavaScript, ReactJS, NodeJS**  
 
-💬 Ask me about **Node.js, React, JavaScript... or anything**  <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="20" align='right'/>
+💬 Ask me about **Node.js, React, JavaScript... or anything**  <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="50" align='right'/>
 
 ⚡ Fun fact **JavaScript is like the versatile ninja tool in "Naruto," adding interactivity and dynamics to websites.**
 
