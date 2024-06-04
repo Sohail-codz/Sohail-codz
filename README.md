@@ -18,8 +18,7 @@
 💬 Ask me about **Node.js, React, JavaScript... or anything**
 
 ⚡ Fun fact **JavaScript is like the versatile ninja tool in "Naruto," adding interactivity and dynamics to websites.**
-
- </pre>
+</pre>
 
  <div align="center"> 
   <a href="mailto:20193061.itsohail@gmail.com">
