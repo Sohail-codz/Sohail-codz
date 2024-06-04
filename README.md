@@ -1,4 +1,4 @@
-<img src="[https://tenor.com/view/anime-gif-25126858](https://media.tenor.com/HnKb6eV2ALsAAAAi/anime.gif)" />
+<img src="https://media.tenor.com/HnKb6eV2ALsAAAAi/anime.gif" />
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey+There!;+I'm+Sohail+Aftab!;" />
