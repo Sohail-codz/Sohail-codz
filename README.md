@@ -1,5 +1,5 @@
-<h1 align="left">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!;+I'm+Sohail+Aftab!;" />
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey+There!;+I'm+Sohail+Aftab!;" />
 </h1>  
     
 <h3 align="center">A passionate web developer from India INA</h3>
@@ -27,7 +27,7 @@
 
 <hr/>
 
-<h2 align="center">🪛 Languages-Frameworks-Tools 🪛</h2>
+<h3 align="center">🪛 Languages-Frameworks-Tools 🪛</h3>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,git" />
