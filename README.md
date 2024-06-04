@@ -9,8 +9,7 @@
 <div>
 <div>
 🌱 I’m currently learning **JavaScript, ReactJS, NodeJS**  
-
-
+<br/>
 💬 Ask me about **Node.js, React, JavaScript... or anything** 
 </div>
 
