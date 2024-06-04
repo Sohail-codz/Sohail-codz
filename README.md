@@ -6,10 +6,7 @@
 <h3 align="center">A passionate web developer from India INA</h3>
 
 <br/>
-<br/>
-<br/>
-<br/>
-<br/>
+
 
 <pre>
 
