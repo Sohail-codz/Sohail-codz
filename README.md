@@ -9,7 +9,9 @@
 <div>
  
 🌱 I’m currently learning **JavaScript, ReactJS, NodeJS**  
+
 💬 Ask me about **Node.js, React, JavaScript... or anything** 
+
 ⚡ Fun fact **JavaScript is like the versatile ninja tool in "Naruto," adding interactivity and dynamics to websites.**
 <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40"/>
 
