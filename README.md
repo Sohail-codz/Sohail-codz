@@ -8,8 +8,9 @@
 
 <div>
  
-<img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="60" align='right'/>
+<img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="60" align='center'/>
 🌱 I’m currently learning **JavaScript, ReactJS, NodeJS**  
+
 
 💬 Ask me about **Node.js, React, JavaScript... or anything** 
 
