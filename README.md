@@ -11,7 +11,7 @@
 <br/>
 <br/>
 
-<div>
+<pre>
 
 🌱 I’m currently learning **JavaScript, ReactJS, NodeJS**
 
@@ -19,7 +19,7 @@
 
 ⚡ Fun fact **JavaScript is like the versatile ninja tool in "Naruto," adding interactivity and dynamics to websites.**
 
- </div>
+ </pre>
 
  <div align="center"> 
   <a href="mailto:20193061.itsohail@gmail.com">
