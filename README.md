@@ -1,6 +1,7 @@
 <img src="https://media.tenor.com/HnKb6eV2ALsAAAAi/anime.gif" align="right" width="25%"/>
-  
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey+There!;+I'm+Sohail+Aftab!;"/>
+<h1>
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey+There!;+I'm+Sohail+Aftab!;"/>
+</h1>  
 
     
 <h3 align="center">A passionate web developer from India INA</h3>
