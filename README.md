@@ -8,7 +8,7 @@
 
 <div>
 
-🌱 I’m currently learning **JavaScript, ReactJS, NodeJS**  <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="50" align='center'/>
+🌱 I’m currently learning **JavaScript, ReactJS, NodeJS**  <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="90" align='right'/>
 
 💬 Ask me about **Node.js, React, JavaScript... or anything**  
 
