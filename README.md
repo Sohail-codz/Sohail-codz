@@ -8,7 +8,7 @@
 <br/>
 <br/>
 <br/>
-<h3 align="center">A passionate web developer from India IND</h3>
+<h3 align="center">A passionate MDM analyst and web developer from India IND</h3>
 <br/>
 <br/>
 <br/>
