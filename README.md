@@ -17,9 +17,9 @@
 
 <pre>
 
-🌱 I’m currently learning <b>JavaScript, ReactJS, NodeJS</b>
+🌱 I’m currently learning <b>SQL, MDM, Reltio, Error Analysis</b>
 
-💬 Ask me about <b>Node.js, React, JavaScript... or anything</b>
+💬 Ask me about <b>SQL, MDM, Node.js, React, JavaScript... or anything</b>
 
 ⚡ Fun fact <b>JavaScript is like the versatile ninja tool in "Naruto," adding interactivity and dynamics to websites.</b>
 </pre>
@@ -38,8 +38,8 @@
 <h3 align="center">🪛 Languages-Frameworks-Tools 🪛</h3>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=sql,react,bootstrap,html,css,vscode,github,git" />
-    <img src="https://skillicons.dev/icons?i=nodejs,javascript,express,mongodb,java,mysql" /><br>
+    <img src="https://skillicons.dev/icons?i=mysql,react,bootstrap,html,css,vscode,github,git" />
+    <img src="https://skillicons.dev/icons?i=nodejs,javascript,express,mongodb,java" /><br>
 </div>
 
 <br/>
